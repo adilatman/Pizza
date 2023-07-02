@@ -89,7 +89,7 @@ namespace Pizza.UI
                 }
             }
         }
-        private void IcerikDoldur() // icine vscode araciligi ile deneme amacli yazdim (02.07.2023)
+        private void IcerikDoldur() // icine vscode araciligi ile deneme amacli  (02.07.2023)
         {
             flwContents.Controls.Clear();
             Product product = cmbPizza.SelectedItem as Product;
